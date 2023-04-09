@@ -6,7 +6,7 @@ public class Home{
 	public static void main(String [] args){
 
 		
-Garage sGarage = new Garage();
+Garage sGarage = new Garage(); 
 
 	        
       sGarage.addCar("Toyota Corolla Cross");
@@ -26,5 +26,6 @@ Garage sGarage = new Garage();
    System.out.println("\nAll cars in the garage are:");
         sGarage.listCars();
         }
+        
 
 }
