@@ -28,6 +28,4 @@ Garage sGarage = new Garage();
         }
 
 
-        
-
 }
